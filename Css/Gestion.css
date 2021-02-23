@@ -1,0 +1,62 @@
+#Fondo{
+
+	position: absolute;
+	
+	top: 1%;
+	background-color: #585858
+	border-radius: 35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px 35px;
+	border: 0px solid #000000;
+	background-color: #D8D8D8;
+	
+	text-shadow: 2px 2px 2px #359ACE;
+	font-size: 125%;
+
+
+}
+.TextBox{
+	border-radius: 35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px 35px;
+	border: 0px solid #000000;
+	background-color: #BDBDBD;
+	font-family: 'Aclonica', serif;
+	text-shadow: -10px 10px 10px rgba(0,0,0, 0.3);
+	text-align: center;
+}
+.Button{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    background-color: #6E6E6E;
+    border-radius: 15px;
+    border: 3px double #0174DF;
+    cursor: hand;
+    text-shadow: 2px 2px 2px #6E6E6E;
+	text-align: 10%;
+	font-size: 70%;
+  }
+  #Regresar{
+  	position: absolute;
+  	top: 2%;
+  	left: 90%;
+  	height: 40px;
+  	width: 150px;
+text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    background-color: #8A0808;
+    border-radius: 15px;
+    border: 3px double #0174DF;
+    cursor: hand;
+    text-shadow: 2px 2px 2px #6E6E6E;
+	text-align: 10%;
+	font-size: 100%;
+	color: white;
+
+  }

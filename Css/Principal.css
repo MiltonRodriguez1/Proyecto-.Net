@@ -1,0 +1,65 @@
+.Button{
+
+	background-color: white;
+	position: absolute;
+	
+	left: 10%;
+
+	font-family: 'Aclonica', serif;
+	font-size: 275%;
+	color: #fff;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+}
+.Button{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    background-color: #6E6E6E;
+    border-radius: 15px;
+    border: 3px double #0174DF;
+    cursor: hand;
+  }
+  .Button:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
+#Button1{
+
+	top: 110px;
+}
+#Button2{
+
+	top: 240px;
+}
+#Button3{
+
+	top: 370px;
+}
+#Fondo{
+
+	position: absolute;
+	left: 33%;
+	top: 13%;
+	background-color: #585858
+	border-radius: 35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px 35px;
+	border: 0px solid #000000;
+	background-color: #585858
+
+}
+#menu{
+
+	font-family: 'Aclonica', serif;
+	font-size: 350%;
+	color:#0174DF;
+	text-shadow: -10px 10px 10px rgba(0,0,0, 0.3);
+	
+	position:absolute;
+	left: 38%
+
+	
+
+}

@@ -1,0 +1,65 @@
+#Fondo{
+
+	position: absolute;
+	left: 37%;
+	top: 13%;
+	background-color: #585858
+	border-radius: 35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px 35px;
+	border: 0px solid #000000;
+	background-color: #424242;
+
+	width: 28%;
+	height: 74%;
+
+}
+#titulo{
+
+	font-family: 'Aclonica', serif;
+	font-size: 350%;
+	color:#0174DF;
+	text-shadow: -10px 10px 10px rgba(0,0,0, 0.3);
+	
+	position:absolute;
+	left: 10%
+
+	
+
+}
+.Button{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    background-color: #6E6E6E;
+    border-radius: 15px;
+    border: 3px double #0174DF;
+    cursor: hand;
+  }
+  .Button:hover{
+    opacity: 0.6;
+    text-decoration: none;
+    cursor: hand;
+  }
+#Button1{
+position: absolute;
+	top: 120px;
+	left: 12%;
+}
+#Button2{
+position: absolute;
+	top: 220px;
+		left: 12%;
+}
+#Transferencia{
+position: absolute;
+	top: 330px;
+		left: 12%;
+}
+#Transferencia0{
+position: absolute;
+	top: 530px;
+		left: 40%;
+}

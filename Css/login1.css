@@ -1,0 +1,94 @@
+#Fondo{
+
+	position: absolute;
+	left: 37%;
+	top: 13%;
+	background-color: #585858
+	border-radius: 35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px 35px;
+	border: 0px solid #000000;
+	background-color: #585858;
+	width: 28%;
+	height: 74%;
+
+}
+#imagen{
+
+	position: absolute;
+	top: 3%;
+	left: 20%;
+
+}
+#label1{
+	position: absolute;
+	top: 46%;
+	height: 5%;
+	left: 15%
+
+}
+#label2{
+	position: absolute;
+	top: 61%;
+	height: 5%;
+	left: 25%;
+	
+}
+#TextBox1{
+	position: absolute;
+	top:58%;
+	height: 5%;
+	left:10%;
+	width: 90%;
+}
+#TextBox2{
+	position: absolute;
+	top:74%;
+	height: 5%;
+	left:10%;
+	width: 90%;
+}
+.label{
+	font-family: 'Aclonica', serif;
+	font-size: 150%;
+	color: #fff;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+	
+}
+.TextBox{
+	border-radius: 35px 35px 35px 35px;
+	-moz-border-radius: 35px 35px 35px 35px;
+	-webkit-border-radius: 35px 35px 35px 35px;
+	border: 0px solid #000000;
+	background-color: #BDBDBD;
+	font-family: 'Aclonica', serif;
+	font-size: 120%;
+	text-shadow: -10px 10px 10px rgba(0,0,0, 0.3);
+	text-align: center;
+}
+#Button1{
+cursor: hand;
+	position: absolute;
+	left: 22%;
+	top: 84%;
+	width: 80%;
+	height: 8%;
+	font-family: 'Aclonica', serif;
+	font-size: 205%;
+	color: #fff;
+	text-shadow: 0px 1px 0px #999, 0px 2px 0px #888, 0px 3px 0px #777, 0px 4px 0px #666, 0px 5px 0px #555, 0px 6px 0px #444, 0px 7px 0px #333, 0px 8px 7px #001135;
+	text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    background-color: #6E6E6E;
+    border-radius: 15px;
+    border: 3px double #0174DF;
+    
+
+}
+.Button1:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
